@@ -14,6 +14,6 @@ Run npm init -y, npm i, npm run seeds, and mysql in the terminal to get the app 
 
 ## URL's 
 
-Repository:
+Repository: https://github.com/saucymj/ORM-Ecommerce-Backend
 
 Video Demo:
